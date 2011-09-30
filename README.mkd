@@ -10,6 +10,7 @@ How to use it
 ------------------
 
 Download the PeerIndexPy.py file and import it in python by
+
 ```python
 >>> from PeerIndexPy import PeerIndex
 
@@ -19,7 +20,9 @@ Download the PeerIndexPy.py file and import it in python by
 
 You'll have a data object like:
 
+```python
 {"name":"Simon Cast","twitter":"simoncast","slug":"simon-cast","known":1,"authority":40,"activity":46,"audience":46,"peerindex":41,"url":"http:\/\/pi.mu\/4","topics":["entrepreneurship","peer influence","product management","london","seedcamp"]}
+```
 
 which you can access like: 
 
