@@ -3,7 +3,7 @@ PeerIndexPy
 
 A Python interface for the PeerIndex API.
 
-To use this you need a PeerIndex API key which 
+To use this you need a PeerIndex API key, which 
     you can get at: http://dev.peerindex.com/
 
 How to use it
